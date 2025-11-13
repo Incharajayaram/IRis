@@ -1,18 +1,3 @@
-{
-  "configurations": [
-    {
-      "name": "windows-gcc-x64",
-      "includePath": [
-        "${workspaceFolder}/**"
-      ],
-      "compilerPath": "gcc",
-      "cStandard": "${default}",
-      "cppStandard": "${default}",
-      "intelliSenseMode": "windows-gcc-x64",
-      "compilerArgs": [
-        ""
-      ]
-    }
-  ],
-  "version": 4
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eb12c4f84f2f56b513b984d66fc1f45b20e07624c61ecc79299dc8f27c45c8a
+size 356
