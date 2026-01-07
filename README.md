@@ -1,6 +1,6 @@
 # HackMan - ML-Guided RISC-V Compiler Optimization
 
-An ML-powered compiler optimization system that uses XGBoost to predict optimal LLVM pass sequences for C programs, specifically targeting **RISC-V hardware**. Beat standard optimization levels (-O0/-O1/-O2/-O3) with intelligent, program-specific optimizations!
+An ML-powered compiler optimization system that uses Transformers to predict optimal LLVM pass sequences for C programs, specifically targeting **RISC-V hardware**. Beat standard optimization levels (-O0/-O1/-O2/-O3) with intelligent, program-specific optimizations!
 
 ---
 
